@@ -1,8 +1,7 @@
 
 Desafio práctico de JavaScript enfocado en DOM, actualizar cantidad y el total a pagar de un producto.
 
-Visita la página en la siguiente url: LeBrokennn.github.io/CALCULADORA/
-
+Visita la página; 
 ## Funcionalidades
 
 - Mostrar el precio base del producto.
